@@ -1,6 +1,6 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
-  color: #181918;
+  color: #222;
 }
 
 .emojis {
@@ -18,9 +18,9 @@ body {
 }
 
 .emoji {
-  border: 1px solid #181918;
-  border-radius: 6px;
-  padding: 2rem;
+  border: 1px solid #222;
+  border-radius: 8px;
+  padding: 1rem;
 }
 
 .emoji .icon {
@@ -30,16 +30,16 @@ body {
 .emoji h2 {
   order: 1;
   margin: 0;
-  border-bottom: 2px solid #D3D3D3;
+  border-bottom: 2px solid #ccc;
   align-self: stretch;
 }
 
 .emoji a {
   text-decoration: none;
-  background-color: ##7330ab;
-  color: #FFFFFF;
+  background-color: #781BAA;
+  color: white;
   padding: 1rem;
-  border-radius: 6px;
+  border-radius: 8px;
   order: 3;
   align-self: stretch;
 }
@@ -49,4 +49,4 @@ body {
 }
 
 .icon {
-  font-size:2rem;
+  font-size: 4rem;
