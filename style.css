@@ -28,7 +28,7 @@ body {
 }
 
 .emoji h2 {
-  order: o;
+  order: 0;
   margin: 0;
   border-bottom: 2px solid #D3D3D3;
   align-self: stretch;
