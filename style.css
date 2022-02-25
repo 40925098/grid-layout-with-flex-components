@@ -24,11 +24,11 @@ body {
 }
 
 .emoji .icon {
-  order: 0;
+  order: 1;
 }
 
 .emoji h2 {
-  order: 1;
+  order: o;
   margin: 0;
   border-bottom: 2px solid #D3D3D3;
   align-self: stretch;
