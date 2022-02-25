@@ -1,5 +1,5 @@
 body {
-  font-family: "Lucida Console", Courier, monospace;
+  font-family: Arial, Helvetica, sans-serif;
   color: #181918;
 }
 
@@ -24,11 +24,11 @@ body {
 }
 
 .emoji .icon {
-  order: 1;
+  order: 0;
 }
 
 .emoji h2 {
-  order: 0;
+  order: 1;
   margin: 0;
   border-bottom: 2px solid #D3D3D3;
   align-self: stretch;
@@ -36,8 +36,8 @@ body {
 
 .emoji a {
   text-decoration: none;
-  background-color: #62c1f5;
-  color: #F5F5F5;
+  background-color: ##7330ab;
+  color: #FFFFFF;
   padding: 1rem;
   border-radius: 6px;
   order: 3;
